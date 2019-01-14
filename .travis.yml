@@ -1,0 +1,9 @@
+branches:
+language: ruby
+cache: bundler
+sudo: false
+rvm:
+- 2.3.0
+before_install: gem install inspec
+script:
+- inspec check .
