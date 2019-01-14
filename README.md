@@ -1,5 +1,7 @@
 # Uyuni InSpec Profile
 
+[![Build Status](https://travis-ci.org/stdevel/uyuni-inspec.svg?branch=master)](https://travis-ci.org/stdevel/uyuni-inspec)
+
 This profile verifies an Uyuni installation.
 
 Currently, only openSUSE 42.3 is supported - additional distributions will follow once Uyuni supports them.
