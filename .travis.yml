@@ -1,4 +1,3 @@
-branches:
 language: ruby
 cache: bundler
 sudo: false
